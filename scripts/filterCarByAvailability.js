@@ -691,3 +691,5 @@ function filterCarByAvailability(cars) {
   // Rubah code ini dengan array hasil filter berdasarkan availablity
   return newFilter
 }
+
+console.log(filterCarByAvailability())
